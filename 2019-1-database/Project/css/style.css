@@ -1,0 +1,19 @@
+h1
+{
+	background-image:url("../image/header_background.jpg");
+	font-size:90px;
+	color:white;
+	text-align:center;
+	vertical-align:center;
+	margin-top:10px;
+}
+
+h2
+{
+	background-color: #5A5AFF;
+	font-size:90px;
+	color:white;
+	text-align:center;
+	vertical-align:center;
+	margin-top:10px;
+}

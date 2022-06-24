@@ -1,0 +1,7 @@
+D_H_Shin	20	A A B C A
+S_W_Kim		22	B C D B B
+J_H_Bak		20	A B C B B
+S_J_Lee		25	C C A B A
+D_J_Kim		21	D C D A B
+Y_S_Kim		21	B A C B A
+M_H_Roh		26	B B C C B

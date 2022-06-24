@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Login page</title>
+        
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel ="stylesheet" href="css/bootstrap.css">
+        <script type="text/javascript" src ="js/bootstrap.js"></script>
+    </head>
+    
+    <body>
+        <FORM method="post" action = "login_check.php">
+            <label>ID : </label>
+            <input type="text" class="form-control" name="user_id">
+            
+            <label>PW : </label>
+            <input type="password" class="form-control" name="user_pw">            
+            <br>
+            
+            <button type="submit" class="btn btn-primary">Log in</button>
+	</FORM>
+        
+        <br>
+        <p> Don't have an account? Please sign up </p>
+        <a href="sign_up.html"><button class="btn btn-info">sign_up</button></a>
+    </body>
+</html>
